@@ -14,3 +14,16 @@ The course, crafted by Google's ML researchers and engineers, covers the core pi
 - Evaluation: Assessing and improving agent performance.
 
 Inside, you'll find my solutions to codelabs, hands-on examples, and personal notes as I explored building, evaluating, and deploying agents for real-world problems.
+
+## COURSE STRUCTURE & MY WORK
+
+* **Day 1: Foundations of AI Agents**
+    * [Link to Day 1 folder/code] - Explored core concepts and agent loops.
+* **Day 2: Tools and Orchestration**
+    * [Link to Day 2 folder/code] - Implemented tool-using agents and managed task flows.
+* **Day 3: Memory in Agents**
+    * [Link to Day 3 folder/code] - Built agents with short-term and long-term memory.
+* **Day 4: Evaluation Strategies**
+    * [Link to Day 4 folder/code] - Developed frameworks for evaluating agent performance.
+* **Day 5: Building Production-Ready Agents**
+    * [Link to Day 5 folder/code] - Final project combining all concepts for a real-world problem.
